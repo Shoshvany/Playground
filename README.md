@@ -16,14 +16,14 @@ To answer this question you will have to use [Climacell](https://climacell.co) [
 Explore the api to understand which service suits you best.
 
 #### Required solution:
-* Create a react app that uses [Climacell Api](https://developer.climacell.co/docs) to get the weather data to decide when a hat might fly off your head.
+* Create a Native app (iOS / Android) that uses [Climacell Api](https://developer.climacell.co/docs) to get the weather data to decide when a hat might fly off your head.
 * Display a graph that shows the weather parameter you are using over time with an indication of when would the hat fly.
-* Deploy your solution to a static web hosting service of your choice (such as `Heroku`, `Github`, `AWS S3`, `Netlify` etc..) so it is publicly available.
+* Allow the user to change the date.
+* Extracurricular - Add a map screen and allow the user to change the location.
 
 #### Guidelines:
 * Pay attention to SW design and clean code.
-* You are free to use any tool / library of your desire.
-* We encourage using [create react app](https://github.com/facebook/create-react-app?files=1).
+* You are free to use any framework / tool / library of your desire.
 
 #### Before you start:
 * Create a branch with your name from the `master` branch
